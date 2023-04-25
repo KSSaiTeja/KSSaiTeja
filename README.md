@@ -1,3 +1,31 @@
+<div align= "center">
+<img src = "https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png"  />
+</div>
+
+  ```
+
+                               \\\\\\\
+                            \\\\\\\\\\\\
+                          \\\\\\\\\\\\\\\
+  -----------,-|           |C>   // )\\\\|
+           ,','|          /    || ,'/////|
+---------,','  |         (,    ||   /////
+         ||    |          \\  ||||//''''|
+         ||    |           |||||||     _|
+         ||    |______      `````\____/ \
+         ||    |     ,|         _/_____/ \
+         ||  ,'    ,' |        /          |
+         ||,'    ,'   |       |         \  |
+_________|/    ,'     |      /           | |
+_____________,'      ,',_____|      |    | |
+             |     ,','      |      |    | |
+             |   ,','    ____|_____/    /  |
+             | ,','  __/ |             /   |
+_____________|','   ///_/-------------/   |
+              |===========,'
+              
+```
+
 <h2 align="center">Hi 👋! My name is K S Sai Teja and I'm a Full Stack Developer, from India</h2>
 
 ###
@@ -6,6 +34,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=KSSaiTeja&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KSSaiTeja&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
 
 ###
 
@@ -77,5 +106,9 @@
 &nbsp;<div align="center">
   [![Spotify](https://novatorem-kssaiteja.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31uusj2y5lrhycl74szybqkcyqtq)
 </div>
+
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31uusj2y5lrhycl74szybqkcyqtq&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=31uusj2y5lrhycl74szybqkcyqtq&redirect=true)
+
 
 ###
