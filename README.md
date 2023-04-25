@@ -3,14 +3,12 @@
 ###
 
 <div align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=KSSaiTeja&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=true&custom_title=K S Sai Teja" height="150" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=KSSaiTeja&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=true&custom_title=K S Sai Teja" height="150" alt="stats graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=KSSaiTeja&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KSSaiTeja&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=15&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KSsaiTeja&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=15&theme=dracula&hide_border=false&custom_title=Languages I work with" height="150" alt="languages graph"  />
 </div>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
@@ -66,13 +64,11 @@
 ###
 
 <br clear="both">
-###
-![Snake animation](https://github.com/KSSaiTeja/KSSaiTeja/blob/output/github-contribution-grid-snake.svg)
+
+<img src="https://raw.githubusercontent.com/KSSaiTeja/KSSaiTeja/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
 &nbsp;<div align="center">
   [![Spotify](https://novatorem-kssaiteja.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31uusj2y5lrhycl74szybqkcyqtq)
 </div>
-
-###
