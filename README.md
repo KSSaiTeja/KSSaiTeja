@@ -106,9 +106,4 @@ _____________|','   ///_/-------------/   |
 &nbsp;<div align="center">
   [![Spotify](https://novatorem-kssaiteja.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31uusj2y5lrhycl74szybqkcyqtq)
 </div>
-
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31uusj2y5lrhycl74szybqkcyqtq&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=31uusj2y5lrhycl74szybqkcyqtq&redirect=true)
-
-
 ###
