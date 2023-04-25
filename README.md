@@ -58,7 +58,7 @@
 <br clear="both">
 
 
-![](https://raw.githubusercontent.com/KSSaiTeja/KSSaiTeja/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
 
 ###
 
