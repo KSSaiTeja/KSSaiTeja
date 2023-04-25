@@ -3,9 +3,9 @@
 ###
 
 <div align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=K&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=true&custom_title=K S Sai Teja" height="150" alt="stats graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=K&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=K&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=15&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=KSSaiTeja&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=true&custom_title=K S Sai Teja" height="150" alt="stats graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=KSSaiTeja&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KSSaiTeja&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=15&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -57,17 +57,17 @@
 
 ###
 
-<img align="right" src="https://profile-counter.glitch.me/K/count.svg?"  />
+<br clear="both">
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/K/count.svg?"  />
+</div>
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/K/K/blob/output/snake.svg" alt="Snake animation" />
+
+
 
 ###
-
-
-&nbsp;<div align="center">
-  [![Spotify](https://novatorem-kssaiteja.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31uusj2y5lrhycl74szybqkcyqtq)
-</div>
