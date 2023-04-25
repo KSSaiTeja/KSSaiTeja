@@ -63,14 +63,9 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="spotify-widget-6xb1gdnw2-kssaiteja.vercel.app?" alt="Widget with the current Spotify song"  />
+
+&nbsp;<div align="center">
+  [![Spotify](https://novatorem-kssaiteja.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31uusj2y5lrhycl74szybqkcyqtq)
 </div>
-
-### Spotify Playing 
-
-[<img src="https://novatorem-omega-ecru.vercel.app/api/spotify-playing" alt="K S Sai Teja Spotify Playing" width = "350" />]
-(https://open.spotify.com/user/31uusj2y5lrhycl74szybqkcyqtq)
-
 
 ###
