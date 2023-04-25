@@ -63,17 +63,11 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="spotify-widget-6xb1gdnw2-kssaiteja.vercel.app?" alt="Widget with the current Spotify song"  />
-</div>
+<img src="https://raw.githubusercontent.com/K/K/blob/output/snake.svg" alt="Snake animation" />
+
+###
+
 
 &nbsp;<div align="center">
   [![Spotify](https://novatorem-kssaiteja.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31uusj2y5lrhycl74szybqkcyqtq)
 </div>
-
-
-###
-
-<img src="https://raw.githubusercontent.com/K/K/blob/output/snake.svg" alt="Snake animation" />
-
-###
