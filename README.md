@@ -1,3 +1,4 @@
+![animation ](https://user-images.githubusercontent.com/130981122/235178357-b6cbb388-8330-4575-bd14-d6ce24a996b6.gif)
 <div align= "center">
 <img src = "https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png"  />
 </div>
