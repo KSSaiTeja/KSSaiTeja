@@ -156,7 +156,7 @@
 
 ###
 
-![](https://github.com/KSSaiTeja/KSSaiTeja/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/KSSaiTeja/KSSaiTeja/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
@@ -173,12 +173,7 @@
 
 ###
 
-<div align="center">
 
-&nbsp;<div align="center">
-[![Spotify](https://novatorem-kssaiteja.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31uusj2y5lrhycl74szybqkcyqtq)
-
-</div>
 
 </div>
 
