@@ -156,8 +156,6 @@
 
 ###
 
-![snake gif](https://github.com/KSSaiTeja/KSSaiTeja/blob/output/github-contribution-grid-snake.svg)
-
 ###
 
 
@@ -171,10 +169,9 @@
   <img src="https://profile-counter.glitch.me/KSSaiteja/count.svg?"  />
 </div>
 
-###
+### contributions:
+
+<img width="600px" height="300px" alt="first contribution" src="https://github.com/KSSaiTeja/KSSaiTeja/assets/130981122/1d82b42e-6729-4a52-b100-9c472f3c1aac">
 
 
 
-</div>
-
-###
