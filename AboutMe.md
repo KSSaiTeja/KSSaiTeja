@@ -172,6 +172,7 @@
 ### contributions:
 
 <img width="600px" height="300px" alt="first contribution" src="https://github.com/KSSaiTeja/KSSaiTeja/assets/130981122/1d82b42e-6729-4a52-b100-9c472f3c1aac">
+<img width="600px" height="300px" alt="second contribution" src="https://github.com/KSSaiTeja/KSSaiTeja/assets/130981122/c8eff70b-da9a-4ec9-98b9-43916494c41d">
 
 
 
