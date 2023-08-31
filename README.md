@@ -6,9 +6,9 @@
 <hr />
 
 <div align="center">
-         <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kssaiteja" alt="kssaiteja" /></a> </p> 
+         <!--<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kssaiteja" alt="kssaiteja" /></a> </p>  -->
 
- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kssaiteja&show_icons=true&locale=en&layout=compact" alt="kssaiteja" /></p> 
+ <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kssaiteja&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" alt="kssaiteja" /></p> 
 </div>
 
 <div align="center">
@@ -37,9 +37,9 @@
 
 <p align="center"> <a href="https://twitter.com/saitej8262" target="blank"><img src="https://img.shields.io/twitter/follow/saitej8262?logo=twitter&style=for-the-badge" alt="saitej8262" /></a></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kssaiteja&show_icons=true&locale=en&theme=dark" alt="kssaiteja" /></p>
+<!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kssaiteja&show_icons=true&locale=en&theme=transparent&hide_border=true" alt="kssaiteja" /></p> --> 
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kssaiteja&theme=dark" alt="kssaiteja" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kssaiteja&theme=transparent&hide_border=true" alt="kssaiteja" /></p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
