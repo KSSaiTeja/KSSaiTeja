@@ -5,9 +5,11 @@
 </p>
 <hr />
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kssaiteja" alt="kssaiteja" /></a> </p> -->
+<div align="center">
+         <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kssaiteja" alt="kssaiteja" /></a> </p> 
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kssaiteja&show_icons=true&locale=en&layout=compact" alt="kssaiteja" /></p> -->
+ <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kssaiteja&show_icons=true&locale=en&layout=compact" alt="kssaiteja" /></p> 
+</div>
 
 <div align="center">
   <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
@@ -31,13 +33,13 @@
 
 - 📄 Know about my experiences [Checkout here!](https://pdfhost.io/v/GJkIuxX5P_KSSaiteja_CV)
 
-- ⚡ Fun fact **he term 'stack' in full-stack refers to the layers of technology used, just like a stack of pancakes - from front-end (the top) to back-end (the bottom)!**
+- ⚡ Fun fact **The term 'stack' in full-stack refers to the layers of technology used, just like a stack of pancakes - from front-end (the top) to back-end (the bottom)!**
 
 <p align="center"> <a href="https://twitter.com/saitej8262" target="blank"><img src="https://img.shields.io/twitter/follow/saitej8262?logo=twitter&style=for-the-badge" alt="saitej8262" /></a></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kssaiteja&show_icons=true&locale=en" alt="kssaiteja" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kssaiteja&show_icons=true&locale=en&theme=dark" alt="kssaiteja" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kssaiteja&" alt="kssaiteja" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kssaiteja&theme=dark" alt="kssaiteja" /></p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -62,7 +64,8 @@
 
 - [LinkFree](https://github.com/EddieHubCommunity/LinkFree/pull/8669)
 - [Microsoft - Bing Rewards](https://github.com/microsoft-farmer/bing-rewards/pull/9)
-- [Focusly App](https://github.com/Utkarshn10/Focusly/pull/102)
+- [1. Focusly App](https://github.com/Utkarshn10/Focusly/pull/102)
+- [2. Focusly App](https://github.com/Utkarshn10/Focusly/pull/104)
 
 
 
