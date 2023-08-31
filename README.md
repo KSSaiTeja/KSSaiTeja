@@ -23,7 +23,7 @@
 
 - 🤝 I’m looking for help with **Opensource Contributions**
 
-- 👨‍💻 All of my projects are available at [My website](https://kssaiteja.me)
+- 👨‍💻 All of my projects are available [here](https://kssaiteja.me)
 
 - 📝 I regularly write articles on [My Blog](blog.kssaiteja.me)
 
@@ -31,7 +31,7 @@
 
 - 📫 How to reach me **mail@kssaiteja.me**
 
-- 📄 Know about my experiences [Checkout here!](https://pdfhost.io/v/GJkIuxX5P_KSSaiteja_CV)
+- 📄 Know about my experiences [Here!](https://pdfhost.io/v/GJkIuxX5P_KSSaiteja_CV)
 
 - ⚡ Fun fact **The term 'stack' in full-stack refers to the layers of technology used, just like a stack of pancakes - from front-end (the top) to back-end (the bottom)!**
 
@@ -51,7 +51,7 @@
 <a href="https://twitter.com/saitej8262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saitej8262" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kssaiteja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kssaiteja" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19675907/k-s-sai-teja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="k-s-sai-teja" height="30" width="40" /></a>
-<a href="https://fb.com/kssaiteja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kssaiteja" height="30" width="40" /></a>
+<a href="https://www.facebook.com/saitej.saaho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kssaiteja" height="30" width="40" /></a>
 <a href="https://instagram.com/kssaiteja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kssaiteja" height="30" width="40" /></a>
 <a href="https://medium.com/@kssaiteja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kssaiteja" height="30" width="40" /></a>
 <a href="/https://blog.kssaiteja.me/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://blog.kssaiteja.me/rss.xml" height="30" width="40" /></a>
