@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm K S Sai Teja</h1>
-<h3 align="center">A passionate full stack web developer from India.</h3>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kssaiteja&label=Profile%20views&color=0e75b6&style=flat" alt="kssaiteja" /> </p>
+<h1 align="center">Hi , I'm K S Sai Teja | Full stack web developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
+        width="35"></h1>
+<p align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cedarville+Cursive&size=25&pause=1000&center=true&vCenter=true&width=487&lines=I+am+an+ECE+student;Innovative+ideas+to+code+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Passionate+Developer+%F0%9F%98%80" alt="Typing SVG" /></a>
+</p>
+<hr />
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kssaiteja" alt="kssaiteja" /></a> </p> -->
 
