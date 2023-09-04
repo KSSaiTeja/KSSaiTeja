@@ -19,8 +19,8 @@
 - 🌱 I’m currently learning **DevOps, Backend technologies**
 
 - 👯 I’m looking to collaborate on **Opensource Contributions**
-
-- 🤝 I’m looking for help with **Opensource Contributions**
+  
+<!-- - 🤝 I’m looking for help with **Opensource Contributions** -->
 
 - 👨‍💻 All of my projects are available [here](https://kssaiteja.me/projects)
 
