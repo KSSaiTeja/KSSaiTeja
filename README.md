@@ -22,13 +22,13 @@
 
 - 🤝 I’m looking for help with **Opensource Contributions**
 
-- 👨‍💻 All of my projects are available [here](https://kssaiteja.me)
+- 👨‍💻 All of my projects are available [here](https://kssaiteja.me/projects)
 
 - 📝 I regularly write articles on [My Blog](blog.kssaiteja.me)
 
 - 💬 Ask me about **NextJS, ReactJS, Redis etc.**
 
-- 📫 How to reach me **mail@kssaiteja.me**
+- 📫 Reach me [here](mailto:mail@kssaiteja.me)
 
 - 📄 Know about my experiences [Here!](https://pdfhost.io/v/GJkIuxX5P_KSSaiteja_CV)
 
