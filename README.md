@@ -66,5 +66,9 @@
 - [1. Focusly App](https://github.com/Utkarshn10/Focusly/pull/102)
 - [2. Focusly App](https://github.com/Utkarshn10/Focusly/pull/104)
 
+### Certifications
+
+- Frontend Web Development from [freeCodeCamp.](https;//example.com)
+
 
 
