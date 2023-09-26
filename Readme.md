@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="200" src="https://github.com/KSSaiTeja/KSSaiTeja/assets/130981122/95ad135d-9563-40e0-8be3-6f899065ca3c"  />
 </div>
 
 - 🔭 I’m currently working on **Opensource Contributions**
