@@ -12,7 +12,9 @@
 
 <div align="center">
   <img height="200" src="https://github.com/KSSaiTeja/KSSaiTeja/assets/130981122/95ad135d-9563-40e0-8be3-6f899065ca3c"  />
+   
 </div>
+
 
 - 🔭 I’m currently working on **Opensource Contributions**
 
@@ -35,6 +37,10 @@
 - ⚡ Fun fact **The term 'stack' in full-stack refers to the layers of technology used, just like a stack of pancakes - from front-end (the top) to back-end (the bottom)!**
 
 <p align="center"> <a href="https://twitter.com/saitej8262" target="blank"><img src="https://img.shields.io/twitter/follow/saitej8262?logo=twitter&style=for-the-badge" alt="saitej8262" /></a></p>
+
+<div align="center">
+     <img height="200" src="https://github.com/KSSaiTeja/KSSaiTeja/assets/130981122/72a11fb4-a124-4ec6-9709-5a06924aee43"/>
+</div>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kssaiteja&theme=transparent&hide_border=true" alt="kssaiteja" /></p>
 
