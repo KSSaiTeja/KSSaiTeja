@@ -5,7 +5,11 @@
 <hr />
 
 <div align="center">
-         <!--<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kssaiteja" alt="kssaiteja" /></a> </p>  -->
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kssaiteja" alt="kssaiteja" /></a> </p>
+
+</div>
+
+<div align="center">
 
  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kssaiteja&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" alt="kssaiteja" /></p> 
 </div>
