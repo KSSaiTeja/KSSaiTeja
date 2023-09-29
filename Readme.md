@@ -22,7 +22,7 @@
 
 - 🔭 I’m currently working on **Opensource Contributions**
 
-- 🌱 I’m currently learning **DevOps, Backend technologies**
+- 🌱 I’m currently learning **DevOps, Backend technologies and cloud computing**
 
 - 👯 I’m looking to collaborate on **Opensource Contributions**
   
