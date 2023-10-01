@@ -80,10 +80,11 @@
 
 ### Opensource contributions:
 
-- [LinkFree](https://github.com/EddieHubCommunity/LinkFree/pull/8669)
+- [BioDrop](https://github.com/EddieHubCommunity/LinkFree/pull/8669)
 - [Microsoft - Bing Rewards](https://github.com/microsoft-farmer/bing-rewards/pull/9)
 - [1. Focusly App](https://github.com/Utkarshn10/Focusly/pull/102)
 - [2. Focusly App](https://github.com/Utkarshn10/Focusly/pull/104)
+- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/pull/51577)
 
 ### Certifications
 
