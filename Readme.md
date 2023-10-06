@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm K S Sai Teja | Frontend Web Developer with NextJS expertise <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I am K S Sai Teja | Frontend Web Developer with NextJS expertise <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cedarville+Cursive&size=25&pause=1000&center=true&vCenter=true&width=487&lines=I+am+an+ECE+student;Innovative+ideas+to+code+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Passionate+Developer+%F0%9F%98%80" alt="Typing SVG about me" /></a>
 </p>
@@ -26,7 +26,7 @@
 
 - 👯 I’m looking to collaborate on **Opensource Contributions**
   
-<!-- - 🤝 I’m looking for help with **Opensource Contributions** -->
+- 🤝 I’m looking for collaborations with **Opensource Contributions**
 
 - 👨‍💻 All of my projects are available [here](https://kssaiteja.me/projects)
 
@@ -48,10 +48,6 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kssaiteja&theme=transparent&hide_border=true" alt="kssaiteja" /></p>
 
-# Blog posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <div align="center">
