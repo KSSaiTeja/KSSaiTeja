@@ -46,7 +46,7 @@
      <img height="200" src="https://github.com/KSSaiTeja/KSSaiTeja/assets/130981122/72a11fb4-a124-4ec6-9709-5a06924aee43"/>
 </div>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kssaiteja&theme=transparent&hide_border=true" alt="kssaiteja" /></p>
+<!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kssaiteja&theme=transparent&hide_border=true" alt="kssaiteja" /></p> -->
 
 
 <h3 align="left">Connect with me:</h3>
